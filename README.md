@@ -45,6 +45,7 @@ O objetivo do sistema é facilitar o gerenciamento de:
 
 O sistema segue uma arquitetura **Full Stack separada em três camadas principais**:
 
+```
 Frontend (Vue + Quasar)
 │
 │ API REST
@@ -53,6 +54,7 @@ Backend (Node + Express + TypeScript)
 │
 ▼
 Banco de Dados (PostgreSQL)
+```
 
 ---
 
@@ -118,6 +120,7 @@ O backend foi desenvolvido em **Node.js com TypeScript**, seguindo uma arquitetu
 
 ### Arquitetura Backend
 
+```
 Controller
 ↓
 Service
@@ -125,6 +128,7 @@ Service
 Repository
 ↓
 Database
+```
 
 Essa estrutura permite:
 
@@ -179,14 +183,16 @@ Principais tabelas do sistema:
 
 ### Relacionamentos principais
 
+```
 Cliente
 │
 └── Veículos
-│
-└── Ordens de Serviço
-│
-├── Peças
-└── Mão de Obra
+    │
+    └── Ordens de Serviço
+        │
+        ├── Peças
+        └── Mão de Obra
+```
 
 ---
 
