@@ -14,6 +14,7 @@ O objetivo do sistema é facilitar o gerenciamento de:
 - Usuários
 - Peças e mão de obra
 - Relatórios profissionais em PDF
+- Dashboard
 
 ---
 
@@ -23,19 +24,19 @@ O objetivo do sistema é facilitar o gerenciamento de:
 
 ![Interface](./docs/gifs/VIDEO-FRONT-04-ezgif.com-video-to-gif-converter.gif)
 
+## Dashboard - Nova Feature!
+
+![Dashboard](./docs/gifs/VIDEO-FRONT-07-ezgif.com-video-to-gif-converter.gif)
+
 ## Ordem de Serviço
 
 ![Criando Ordem de Serviço](./docs/gifs/VIDEO-FRONT-01-ezgif.com-video-to-gif-converter.gif)
 
 ## Gestão de Clientes
 
-<!-- ADICIONAR PRINT DO CADASTRO DE CLIENTE -->
-
 ![Clientes](./docs/gifs/VIDEO-FRONT-05-ezgif.com-video-to-gif-converter.gif)
 
 ## Geração de PDF
-
-<!-- ADICIONAR GIF GERANDO PDF -->
 
 ![PDF](./docs/gifs/VIDEO-FRONT-02-ezgif.com-video-to-gif-converter.gif)
 
